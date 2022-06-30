@@ -12,7 +12,7 @@
 
 ## 2. Zawartość katalogów:
 ### • misc - obrazki używane na niektórych oknach (cel: estetyka).
-### • registered_users - katalog w którym zapisywane są dane zarejestrowanych klientów, które po rejestracji służą weryfikacji podczas logowania na konto użytkownika. 
+### • registered_users - katalog w którym zapisywane są dane zarejestrowanych klientów, które po rejestracji służą weryfikacji podczas logowania na konto użytkownika. (Zostawiłem 3 przykładowych użytkowników) 
 
 
 ## Autor - Mateusz Czech 222821
