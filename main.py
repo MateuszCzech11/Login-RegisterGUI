@@ -3,7 +3,6 @@ from PIL import Image, ImageTk
 import popups
 
 def main_popup():
-    global main_screen
     main_screen = Tk()
     logo = ImageTk.PhotoImage(Image.open("misc/logo.png"))
     main_screen["bg"]="#161d92"

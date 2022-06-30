@@ -2,7 +2,6 @@ from tkinter import *
 import user_functions
 
 def register_popup(main_screen):
-    global register_screen
     register_screen = Toplevel(main_screen)
     register_screen.grab_set() #blokuje wyższe okno na czas otwarcia nowego
     register_screen.title("Rejestracja")
@@ -22,7 +21,6 @@ def register_popup(main_screen):
     Button(register_screen, text="Zarejestruj", command=lambda: user_functions.user_register(register_screen, username_to_file,password_to_file,username_entry_register,password_entry_register),width="10", height="1",fg="#4b4de9",bg="#f1fafb",font=("Microsoft PhagsPa",9)).pack()
     
 def login_popup(main_screen):
-    global login_screen
     login_screen = Toplevel(main_screen)
     login_screen.grab_set()
     login_screen["bg"] = "#4a4de8"
