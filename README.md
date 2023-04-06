@@ -11,7 +11,7 @@
 ### • user_functions.py - zbiór funkcji wykorzystywanych podczas użycia przycisków na oknach.
 
 ## 2. Zawartość katalogów:
-### • misc - obrazki używane na niektórych oknach (cel: estetyka).
+### • misc - obrazki używane na niektórych oknach
 ### • registered_users - katalog w którym zapisywane są dane zarejestrowanych klientów, które po rejestracji służą weryfikacji podczas logowania na konto użytkownika. (Zostawiłem 3 przykładowych użytkowników) 
 
 
